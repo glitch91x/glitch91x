@@ -1,13 +1,7 @@
-> glitch.exe
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+ glitch+%F0%9F%91%8B;Engineer+%7C+Builder+%7C;I+build+things+that+probably+shouldn't+exist.;Electronics+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+### Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+glitch+%F0%9F%91%8B;Engineer+%7C+Builder+%7C+Problem+Solver;I+build+things+that+probably+shouldn't+exist.;Electronics+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" /> </p>
-# Hi, I'm glitch
-
-### Engineer • Programmer
-
-I'm an enthusiastic engineer who loves **building things** — useful things, weird things, and occasionally completely unnecessary things.
+I'm an enthusiastic engineer who loves **building things — useful things, weird things, and occasionally completely unnecessary things.
 
 I like finding ways to make life a little easier by turning ideas into projects.
 
