@@ -1,6 +1,6 @@
-# Hi, I'm glitch 👋
+# Hi, I'm glitch
 
-### Engineer • Builder • Tinkerer
+### Engineer • Builder
 
 I'm an enthusiastic engineer who loves **building things** — useful things, weird things, and occasionally completely unnecessary things.
 
