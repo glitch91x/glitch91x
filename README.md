@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+glitch+%F0%9F%91%8B;Pursuing+Computer+Science+Engineering;I+love; alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+glitch+%F0%9F%91%8B;Pursuing+Computer+Science+Engineering;I+love+Programming+%26+Electronics;I+build+cool+%26+useful+things" alt="Typing SVG" />
 
 ### Engineer
 
@@ -32,5 +32,5 @@
 
 ### A little about me
 
-> I like building things that make me think
+> I like building things that make me think  
 > **"I probably didn't need this... but it's pretty cool."**
