@@ -11,6 +11,7 @@
 `OpenCV` `YOLO` `MediaPipe` `Deep Learning`
 
 **Hardware / Embedded**
+
 `Arduino` `ESP32` `Sensors` `IoT`
 
 **Tools**
