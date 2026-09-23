@@ -6,6 +6,7 @@
 **Languages**
 
 `C` `C++` `Python` `Java` `HTML`
+
 **AI / Computer Vision**
 
 `OpenCV` `YOLO` `MediaPipe` `Deep Learning`
