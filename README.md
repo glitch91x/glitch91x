@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+glitch+%F0%9F%91%8B;Engineer+%7C+Builder+%7C+Tinkerer;I+build+things+that+probably+shouldn't+exist.;Electronics+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+glitch+%F0%9F%91%8B;I Engineer;I+build+things+that+probably+shouldn't+exist.;Electronics+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 ### Engineer
 
